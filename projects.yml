@@ -3798,7 +3798,7 @@ broch:
   name: Broch
   url: https://github.com/anteoas/broch
   categories: [Measurement Units]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 frinj:
   name: Frinj
